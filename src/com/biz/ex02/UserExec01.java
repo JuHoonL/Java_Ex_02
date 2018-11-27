@@ -1,6 +1,6 @@
 package com.biz.ex02;
 
-import com.biz.ex02.VO.UserVO;
+import com.biz.ex02.vo.UserVO;
 
 public class UserExec01 {
 	

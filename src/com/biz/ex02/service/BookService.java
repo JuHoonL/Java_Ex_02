@@ -2,7 +2,7 @@ package com.biz.ex02.service;
 
 import java.util.Scanner;
 
-import com.biz.ex02.VO.BookVO;
+import com.biz.ex02.vo.BookVO;
 
 public class BookService {
 

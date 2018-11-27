@@ -2,7 +2,7 @@ package com.biz.ex02;
 
 import java.util.Scanner;
 
-import com.biz.ex02.VO.GradeVO;
+import com.biz.ex02.vo.GradeVO;
 
 public class GradeExec01 {
 

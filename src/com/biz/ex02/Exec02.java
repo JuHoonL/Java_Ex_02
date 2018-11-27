@@ -1,6 +1,6 @@
 package com.biz.ex02;
 
-import com.biz.ex02.VO.TestVO;
+import com.biz.ex02.vo.TestVO;
 
 public class Exec02 {
 

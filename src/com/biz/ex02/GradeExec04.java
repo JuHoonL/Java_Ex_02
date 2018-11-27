@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.biz.ex02.VO.GradeVO;
+import com.biz.ex02.vo.GradeVO;
 
 public class GradeExec04 {
 	

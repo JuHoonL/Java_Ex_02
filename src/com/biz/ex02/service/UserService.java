@@ -2,7 +2,7 @@ package com.biz.ex02.service;
 
 import java.util.Scanner;
 
-import com.biz.ex02.VO.UserVO;
+import com.biz.ex02.vo.UserVO;
 
 public class UserService {
 	/*
